@@ -1,7 +1,7 @@
 # **GoogleNet**
 > - Architecture
-<br>![](/Doc/GoogleNet_Architecture_1.png)
-<br>![](/Doc/GoogleNet_Architecture_2.png)
+<br>![](/Doc/GoogleNet_Architecture_1.PNG)
+<br>![](/Doc/GoogleNet_Architecture_2.PNG)
 
 ## **Weights Download**
 1. GoogleNet
